@@ -1,7 +1,10 @@
+# Hi!!:raising_hand: I'm Ashik
+
+
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Ashik-Jose
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashik-Jose)](https://git.io/streak-stats)
 
 <!--
 **Ashik-Jose/Ashik-Jose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
