@@ -2,9 +2,11 @@
 
 ---
 
-- ###:man_technologist: About me:
+### :man_technologist: About me:
 
 - B.Tech Student at College Of Engineering,Trivandrum
+- Frontend Web Developer
+- Currently learning MERN Stack
 
 ### :fire: My Stats :
 
