@@ -1,7 +1,7 @@
-### Hi there 👋
 
+### :fire: My Stats :
 
-[![trophy](https://github-profile-trophy.vercel.app/Ashik-Jose=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-readme-streak-stats.herokuapp.com/?user=Ashik-Jose
 
 <!--
 **Ashik-Jose/Ashik-Jose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
