@@ -1,5 +1,4 @@
-# Hi!!:raising_hand: I'm Ashik
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!!+I'm+Ashik&center=true&size=40&height=70)](https://git.io/typing-svg)
 ---
 
 ### :man_technologist: About me:
@@ -11,4 +10,3 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashik-Jose)](https://git.io/streak-stats)
-
