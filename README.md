@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!!+I'm+Ashik&center=true&size=40&height=70)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!!+I'm+Ashik&center=true&size=40&height=70&duration=3000&pause=1000&multiline=true)](https://git.io/typing-svg)
 ---
 
 ### :man_technologist: About me:
