@@ -5,6 +5,7 @@
 
 - B.Tech Student at College Of Engineering,Trivandrum
 - Frontend Web Developer
+- Cyber Security Enthusiast
 - Currently learning MERN Stack
 
 ### :fire: My Stats :
