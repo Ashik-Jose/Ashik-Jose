@@ -7,6 +7,7 @@
 - Frontend Web Developer
 - Cyber Security Enthusiast
 - Currently learning MERN Stack
+- Currently working on some OpenCV projects too
 
 ### :fire: My Stats :
 
